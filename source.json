@@ -17,14 +17,14 @@
       "versionDate": "2026-06-23",
       "versionDescription": "Elso SideStore-os kiadas.",
       "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.0/TMGiga-Phone.ipa",
-      "size": 59883925,
+      "size": 59876082,
       "versions": [
         {
           "version": "1.0",
           "date": "2026-06-23",
           "localizedDescription": "Elso SideStore-os kiadas.",
           "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.0/TMGiga-Phone.ipa",
-          "size": 59883925,
+          "size": 59876082,
           "minOSVersion": "13.0"
         }
       ]
