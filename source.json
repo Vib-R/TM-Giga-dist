@@ -1,0 +1,34 @@
+{
+  "name": "TM-Giga",
+  "identifier": "com.inkei.tmgiga.source",
+  "sourceURL": "https://raw.githubusercontent.com/Vib-R/TM-Giga-dist/main/source.json",
+  "apps": [
+    {
+      "name": "TM-Giga",
+      "bundleIdentifier": "com.inkei.tmgiga",
+      "developerName": "Inkei",
+      "subtitle": "Terraforming Mars GIGA companion",
+      "localizedDescription": "Terraforming Mars GIGA kiegeszito tarsalkalmazas: telefon-kliens + TV-host, helyi WiFi-halozaton.",
+      "iconURL": "https://raw.githubusercontent.com/Vib-R/TM-Giga-dist/main/icon.png",
+      "tintColor": "1B7F3B",
+      "category": "games",
+      "screenshotURLs": [],
+      "version": "1.0",
+      "versionDate": "2026-06-23",
+      "versionDescription": "Elso SideStore-os kiadas.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.0/TMGiga-Phone.ipa",
+      "size": 59883925,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-06-23",
+          "localizedDescription": "Elso SideStore-os kiadas.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.0/TMGiga-Phone.ipa",
+          "size": 59883925,
+          "minOSVersion": "13.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
