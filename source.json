@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.1",
+      "version": "1.2",
       "versionDate": "2026-06-24",
-      "versionDescription": "Fekvo (landscape) kepernyo-zar + QR-kodos csatlakozas (gyari kamera -> deep link, auto-connect).",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.1/TMGiga-Phone.ipa",
-      "size": 60191179,
+      "versionDescription": "QR deep-link diagnosztika + robusztusabb auto-csatlakozas (RuntimeInitialize, retry, kepernyo-debug).",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.2/TMGiga-Phone.ipa",
+      "size": 60201311,
       "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-06-24",
+          "localizedDescription": "QR deep-link diagnosztika + robusztusabb auto-csatlakozas (RuntimeInitialize, retry, kepernyo-debug).",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.2/TMGiga-Phone.ipa",
+          "size": 60201311,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.1",
           "date": "2026-06-24",
