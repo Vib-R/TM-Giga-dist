@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.4",
+      "version": "1.5",
       "versionDate": "2026-06-24",
-      "versionDescription": "Kapcsolat nelkul teljes kepernyos, animalt 'Szkenneld be a QR-t' felulet (eltakarja az IP/nev mezoket) + kezi IP tartalek.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.4/TMGiga-Phone.ipa",
-      "size": 60172619,
+      "versionDescription": "Lobby + ready-check + 5 mp visszaszamlalas + jatekinditas; Uj jatek (szerver-wipe); attekinto-kivagas eltuntetve; fokusz pan/zoom + fokozatos homaly + dupla-klikkes bolygo-nyitas; TV elrendezes.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.5/TMGiga-Phone.ipa",
+      "size": 60237016,
       "versions": [
+        {
+          "version": "1.5",
+          "date": "2026-06-24",
+          "localizedDescription": "Lobby + ready-check + 5 mp visszaszamlalas + jatekinditas; Uj jatek (szerver-wipe); attekinto-kivagas eltuntetve; fokusz pan/zoom + fokozatos homaly + dupla-klikkes bolygo-nyitas; TV elrendezes.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.5/TMGiga-Phone.ipa",
+          "size": 60237016,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.4",
           "date": "2026-06-24",
