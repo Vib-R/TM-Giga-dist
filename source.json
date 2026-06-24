@@ -13,16 +13,24 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.2",
+      "version": "1.3",
       "versionDate": "2026-06-24",
-      "versionDescription": "QR deep-link diagnosztika + robusztusabb auto-csatlakozas (RuntimeInitialize, retry, kepernyo-debug).",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.2/TMGiga-Phone.ipa",
-      "size": 60201311,
+      "versionDescription": "Fekvo mod (Info.plist fix) + foglalt szin elutasitasa (megerosites-alapu belepes) + QR-felirat + karakter mentese (nev+szin) localba, auto-belepes.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.3/TMGiga-Phone.ipa",
+      "size": 60195446,
       "versions": [
+        {
+          "version": "1.3",
+          "date": "2026-06-24",
+          "localizedDescription": "Fekvo mod (Info.plist fix) + foglalt szin elutasitasa + QR-felirat + karakter mentese (nev+szin) localba, auto-belepes.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.3/TMGiga-Phone.ipa",
+          "size": 60195446,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.2",
           "date": "2026-06-24",
-          "localizedDescription": "QR deep-link diagnosztika + robusztusabb auto-csatlakozas (RuntimeInitialize, retry, kepernyo-debug).",
+          "localizedDescription": "QR deep-link diagnosztika + robusztusabb auto-csatlakozas.",
           "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.2/TMGiga-Phone.ipa",
           "size": 60201311,
           "minOSVersion": "13.0"
