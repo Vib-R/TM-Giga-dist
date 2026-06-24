@@ -13,16 +13,24 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.3",
+      "version": "1.4",
       "versionDate": "2026-06-24",
-      "versionDescription": "Fekvo mod (Info.plist fix) + foglalt szin elutasitasa (megerosites-alapu belepes) + QR-felirat + karakter mentese (nev+szin) localba, auto-belepes.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.3/TMGiga-Phone.ipa",
-      "size": 60195446,
+      "versionDescription": "Kapcsolat nelkul teljes kepernyos, animalt 'Szkenneld be a QR-t' felulet (eltakarja az IP/nev mezoket) + kezi IP tartalek.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.4/TMGiga-Phone.ipa",
+      "size": 60172619,
       "versions": [
+        {
+          "version": "1.4",
+          "date": "2026-06-24",
+          "localizedDescription": "Kapcsolat nelkul teljes kepernyos, animalt 'Szkenneld be a QR-t' felulet + kezi IP tartalek.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.4/TMGiga-Phone.ipa",
+          "size": 60172619,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.3",
           "date": "2026-06-24",
-          "localizedDescription": "Fekvo mod (Info.plist fix) + foglalt szin elutasitasa + QR-felirat + karakter mentese (nev+szin) localba, auto-belepes.",
+          "localizedDescription": "Fekvo mod (Info.plist fix) + foglalt szin elutasitasa + QR-felirat + karakter mentese (auto-belepes).",
           "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.3/TMGiga-Phone.ipa",
           "size": 60195446,
           "minOSVersion": "13.0"
@@ -38,7 +46,7 @@
         {
           "version": "1.1",
           "date": "2026-06-24",
-          "localizedDescription": "Fekvo (landscape) kepernyo-zar + QR-kodos csatlakozas (gyari kamera -> deep link, auto-connect).",
+          "localizedDescription": "Fekvo (landscape) kepernyo-zar + QR-kodos csatlakozas.",
           "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.1/TMGiga-Phone.ipa",
           "size": 60191179,
           "minOSVersion": "13.0"
