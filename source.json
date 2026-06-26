@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.6",
-      "versionDate": "2026-06-25",
-      "versionDescription": "Lerakasi + szomszedsag bonusz (ocean +2 penz); stackelt jutalom-lista; engedelykeres masik lapka torlesehez; generacio + passz gomb; TV-naplo szines nevekkel + kattinthato mezo-kiemeles; lobby/ready csiszolas.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.6/TMGiga-Phone.ipa",
-      "size": 60301294,
+      "version": "1.7",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Pan/zoom a fo boardon is; ocean barhova lerakhato (megerosites nem-ocean helyen); host Szerkesztes mod (lerakasi bonusz-festo + ocean-helyek); Specialis Tile Pozicio (palyan kivuli + fenntartott helyek, csak a megadott lapka); gyarmatok (Colonies): pozicio-szerkeszto + random sorsolas uj jatekkor + kolonia-epites; TV-naplo ramkozelit a mezore; finomabb gorgo-zoom.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.7/TMGiga-Phone.ipa",
+      "size": 64534881,
       "versions": [
+        {
+          "version": "1.7",
+          "date": "2026-06-27",
+          "localizedDescription": "Pan/zoom a fo boardon is; ocean barhova lerakhato (megerosites nem-ocean helyen); host Szerkesztes mod (lerakasi bonusz-festo + ocean-helyek); Specialis Tile Pozicio (palyan kivuli + fenntartott helyek, csak a megadott lapka); gyarmatok (Colonies): pozicio-szerkeszto + random sorsolas uj jatekkor + kolonia-epites; TV-naplo ramkozelit a mezore; finomabb gorgo-zoom.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.7/TMGiga-Phone.ipa",
+          "size": 64534881,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.6",
           "date": "2026-06-25",
