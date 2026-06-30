@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.7",
-      "versionDate": "2026-06-27",
-      "versionDescription": "Pan/zoom a fo boardon is; ocean barhova lerakhato (megerosites nem-ocean helyen); host Szerkesztes mod (lerakasi bonusz-festo + ocean-helyek); Specialis Tile Pozicio (palyan kivuli + fenntartott helyek, csak a megadott lapka); gyarmatok (Colonies): pozicio-szerkeszto + random sorsolas uj jatekkor + kolonia-epites; TV-naplo ramkozelit a mezore; finomabb gorgo-zoom.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.7/TMGiga-Phone.ipa",
-      "size": 64534881,
+      "version": "1.8",
+      "versionDate": "2026-07-01",
+      "versionDescription": "iOS-teszt javitasok: fokusz-zoom tobbe nem romlik el razoomolt attekintorol; lerakaskor (jutalom) a kamera nem ugrik ki; uj Beallitasok menu (jutalom: nyugtazando OK-ablak vagy magatol eltuno toast); auto-rejoin: hatterbol visszaterve automatikusan ujracsatlakozik a host-hoz (kezi 'QR ujraolvasas' tartalek).",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.8/TMGiga-Phone.ipa",
+      "size": 64550204,
       "versions": [
+        {
+          "version": "1.8",
+          "date": "2026-07-01",
+          "localizedDescription": "iOS-teszt javitasok: fokusz-zoom tobbe nem romlik el razoomolt attekintorol; lerakaskor (jutalom) a kamera nem ugrik ki; uj Beallitasok menu (jutalom: nyugtazando OK-ablak vagy magatol eltuno toast); auto-rejoin: hatterbol visszaterve automatikusan ujracsatlakozik a host-hoz (kezi 'QR ujraolvasas' tartalek).",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.8/TMGiga-Phone.ipa",
+          "size": 64550204,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.7",
           "date": "2026-06-27",
