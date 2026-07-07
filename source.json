@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.8",
-      "versionDate": "2026-07-01",
-      "versionDescription": "iOS-teszt javitasok: fokusz-zoom tobbe nem romlik el razoomolt attekintorol; lerakaskor (jutalom) a kamera nem ugrik ki; uj Beallitasok menu (jutalom: nyugtazando OK-ablak vagy magatol eltuno toast); auto-rejoin: hatterbol visszaterve automatikusan ujracsatlakozik a host-hoz (kezi 'QR ujraolvasas' tartalek).",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.8/TMGiga-Phone.ipa",
-      "size": 64550204,
+      "version": "1.9",
+      "versionDate": "2026-07-07",
+      "versionDescription": "Uj, egyszeru csuszka-panel: minden globalis parameterhez (Homerseklet/Oxigen/Oceanok/Venusz) egy sor a nevvel + aktualis ertekkel + '-'/'+' gombbal, plusz a sajat TR - igy telefonrol hajthato minden ertek a board-markerek teszteléséhez. A homerseklet-sav markere bekalibralva (a marker a helyes cellara ul). Beallitasok fogaskerek-ikon; a jutalom-ablak fekvo modban mar nem vagja le a tetejet; a jatekos-jelolok a nagy attekinto-mapon is latszanak.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.9/TMGiga-Phone.ipa",
+      "size": 64633031,
       "versions": [
+        {
+          "version": "1.9",
+          "date": "2026-07-07",
+          "localizedDescription": "Uj, egyszeru csuszka-panel: minden globalis parameterhez (Homerseklet/Oxigen/Oceanok/Venusz) egy sor a nevvel + aktualis ertekkel + '-'/'+' gombbal, plusz a sajat TR - igy telefonrol hajthato minden ertek a board-markerek teszteléséhez. A homerseklet-sav markere bekalibralva (a marker a helyes cellara ul). Beallitasok fogaskerek-ikon; a jutalom-ablak fekvo modban mar nem vagja le a tetejet; a jatekos-jelolok a nagy attekinto-mapon is latszanak.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.9/TMGiga-Phone.ipa",
+          "size": 64633031,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.8",
           "date": "2026-07-01",
