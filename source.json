@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.0",
-      "versionDate": "2026-07-11",
-      "versionDescription": "GIGA belso trackek (4 szemelyes: oxigen/varos/ocean/homerseklet + 3 Hold rate-track: logistic/mining/colonization) a boardra kalibralva, auto-lepteto logikaval; gyarmat (Colonies) vizual: kalibralt kolonia-kockak + trade-marker + fleet-ikon; fix stack-helyek a kovetkezo ocean/erosion/storm tile-lal; a teljes board-kalibracio beegetve a programkodba; az egy-jeloloos (globalis) trackek jelolojenek kozepen most kiirodik a szam. (A gyarmat trade-logika es a track-ikonok a kovetkezo verzioban jonnek.)",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.0/TMGiga-Phone.ipa",
-      "size": 64770922,
+      "version": "2.1",
+      "versionDate": "2026-07-12",
+      "versionDescription": "Telefon fomenu (Jatek/Profil/Beallitasok/Kilepes + verzio): a jatek most fomenuvel indul; Profil (nev+szin, mentve); csatlakozas Utolso hely / QR / kezi IP, csatlakozas utan auto-belepes a profillal. Beepitett kameras QR-olvaso (ZXing) - az appon belul szkennelheto a TV QR-kodja. Uj radialis lerako-menu: koppintaskor a tabla razoomol a cellara (kozepre), majd a kiemelt tile korul ikonok bomlanak ki animaltan, felirat nelkul (blur nelkul, csak zoom). Gyarmat trade-logika (rakereskedes gomb, feher marker gen.-onkent +1, kereskedeskor a kolonia-mentes helyre). A jutalomnal kiirja, miert kaptad; reward-szovegek atirva; ocean lerakasi jutalmak; utolso ocean kep. Akkumulatorkimelo mod (60/120 FPS). Lobby-bol jatekos kirugasa (piros x).",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.1/TMGiga-Phone.ipa",
+      "size": 66227236,
       "versions": [
+        {
+          "version": "2.1",
+          "date": "2026-07-12",
+          "localizedDescription": "Telefon fomenu (Jatek/Profil/Beallitasok/Kilepes + verzio): a jatek most fomenuvel indul; Profil (nev+szin, mentve); csatlakozas Utolso hely / QR / kezi IP, csatlakozas utan auto-belepes a profillal. Beepitett kameras QR-olvaso (ZXing) - az appon belul szkennelheto a TV QR-kodja. Uj radialis lerako-menu: koppintaskor a tabla razoomol a cellara (kozepre), majd a kiemelt tile korul ikonok bomlanak ki animaltan, felirat nelkul (blur nelkul, csak zoom). Gyarmat trade-logika (rakereskedes gomb, feher marker gen.-onkent +1, kereskedeskor a kolonia-mentes helyre). A jutalomnal kiirja, miert kaptad; reward-szovegek atirva; ocean lerakasi jutalmak; utolso ocean kep. Akkumulatorkimelo mod (60/120 FPS). Lobby-bol jatekos kirugasa (piros x).",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.1/TMGiga-Phone.ipa",
+          "size": 66227236,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.0",
           "date": "2026-07-11",
