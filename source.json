@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "1.9",
-      "versionDate": "2026-07-07",
-      "versionDescription": "Uj, egyszeru csuszka-panel: minden globalis parameterhez (Homerseklet/Oxigen/Oceanok/Venusz) egy sor a nevvel + aktualis ertekkel + '-'/'+' gombbal, plusz a sajat TR - igy telefonrol hajthato minden ertek a board-markerek teszteléséhez. A homerseklet-sav markere bekalibralva (a marker a helyes cellara ul). Beallitasok fogaskerek-ikon; a jutalom-ablak fekvo modban mar nem vagja le a tetejet; a jatekos-jelolok a nagy attekinto-mapon is latszanak.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v1.9/TMGiga-Phone.ipa",
-      "size": 64633031,
+      "version": "2.0",
+      "versionDate": "2026-07-11",
+      "versionDescription": "GIGA belso trackek (4 szemelyes: oxigen/varos/ocean/homerseklet + 3 Hold rate-track: logistic/mining/colonization) a boardra kalibralva, auto-lepteto logikaval; gyarmat (Colonies) vizual: kalibralt kolonia-kockak + trade-marker + fleet-ikon; fix stack-helyek a kovetkezo ocean/erosion/storm tile-lal; a teljes board-kalibracio beegetve a programkodba; az egy-jeloloos (globalis) trackek jelolojenek kozepen most kiirodik a szam. (A gyarmat trade-logika es a track-ikonok a kovetkezo verzioban jonnek.)",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.0/TMGiga-Phone.ipa",
+      "size": 64770922,
       "versions": [
+        {
+          "version": "2.0",
+          "date": "2026-07-11",
+          "localizedDescription": "GIGA belso trackek (4 szemelyes: oxigen/varos/ocean/homerseklet + 3 Hold rate-track: logistic/mining/colonization) a boardra kalibralva, auto-lepteto logikaval; gyarmat (Colonies) vizual: kalibralt kolonia-kockak + trade-marker + fleet-ikon; fix stack-helyek a kovetkezo ocean/erosion/storm tile-lal; a teljes board-kalibracio beegetve a programkodba; az egy-jeloloos (globalis) trackek jelolojenek kozepen most kiirodik a szam. (A gyarmat trade-logika es a track-ikonok a kovetkezo verzioban jonnek.)",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.0/TMGiga-Phone.ipa",
+          "size": 64770922,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.9",
           "date": "2026-07-07",
