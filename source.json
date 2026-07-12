@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.1",
+      "version": "2.3",
       "versionDate": "2026-07-12",
-      "versionDescription": "Telefon fomenu (Jatek/Profil/Beallitasok/Kilepes + verzio): a jatek most fomenuvel indul; Profil (nev+szin, mentve); csatlakozas Utolso hely / QR / kezi IP, csatlakozas utan auto-belepes a profillal. Beepitett kameras QR-olvaso (ZXing) - az appon belul szkennelheto a TV QR-kodja. Uj radialis lerako-menu: koppintaskor a tabla razoomol a cellara (kozepre), majd a kiemelt tile korul ikonok bomlanak ki animaltan, felirat nelkul (blur nelkul, csak zoom). Gyarmat trade-logika (rakereskedes gomb, feher marker gen.-onkent +1, kereskedeskor a kolonia-mentes helyre). A jutalomnal kiirja, miert kaptad; reward-szovegek atirva; ocean lerakasi jutalmak; utolso ocean kep. Akkumulatorkimelo mod (60/120 FPS). Lobby-bol jatekos kirugasa (piros x).",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.1/TMGiga-Phone.ipa",
-      "size": 66227236,
+      "versionDescription": "TV-nezet atszabas: jatekoslista felul-kozepen (szin+nev+TR), generacio romai szammal sci-fi jelvenyben, gorgtheto Naplo (sortordeles, vekony scrollbar, gorgo), Beallitasok menu (Szerkesztes mod + Action cam kapcsolo). ACTION CAM: lerakasnal es csuszka-mozgatasnal a TV-kamera rakozelit a helyre, megjeloli, majd visszater az elozo nezetre. Telefon: a lerako-menu cellaja mostantol dupla-kattra nyilik, rakozelitve lassabb zoom, visszater az eredeti koordinatara/zoomra (nincs villodzas). Reward: osszeg + reszletek az info-gombnal (nagybetus, darabszam), kor alaku info-gomb hattertompitassal, OK/Begyujtve gomb. Ocean track kiveve a csuszkakbol; ocean_NO helyes tajolas; gyarmat-jelolo negyzet+vekony keret, trade-marker a 2-es pozicion; per-jatekos track-markerek szinnel+szammal, globalis markerek feheren. Tartalmazza a v2.2 fekvo-menu javitasokat (safe-area, kozepre igazitott menu/profil, minecraftos cim) es a QR-olvaso csiszolast is.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.3/TMGiga-Phone.ipa",
+      "size": 66276741,
       "versions": [
+        {
+          "version": "2.3",
+          "date": "2026-07-12",
+          "localizedDescription": "TV-nezet atszabas: jatekoslista felul-kozepen (szin+nev+TR), generacio romai szammal sci-fi jelvenyben, gorgtheto Naplo (sortordeles, vekony scrollbar, gorgo), Beallitasok menu (Szerkesztes mod + Action cam kapcsolo). ACTION CAM: lerakasnal es csuszka-mozgatasnal a TV-kamera rakozelit a helyre, megjeloli, majd visszater az elozo nezetre. Telefon: a lerako-menu cellaja mostantol dupla-kattra nyilik, rakozelitve lassabb zoom, visszater az eredeti koordinatara/zoomra (nincs villodzas). Reward: osszeg + reszletek az info-gombnal (nagybetus, darabszam), kor alaku info-gomb hattertompitassal, OK/Begyujtve gomb. Ocean track kiveve a csuszkakbol; ocean_NO helyes tajolas; gyarmat-jelolo negyzet+vekony keret, trade-marker a 2-es pozicion; per-jatekos track-markerek szinnel+szammal, globalis markerek feheren. Tartalmazza a v2.2 fekvo-menu javitasokat (safe-area, kozepre igazitott menu/profil, minecraftos cim) es a QR-olvaso csiszolast is.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.3/TMGiga-Phone.ipa",
+          "size": 66276741,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.1",
           "date": "2026-07-12",
