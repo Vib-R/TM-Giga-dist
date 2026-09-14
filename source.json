@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.4",
+      "version": "2.5",
       "versionDate": "2026-09-14",
-      "versionDescription": "VISSZAVONAS gomb a telefonon: a sajat legutobbi lepes visszavonasa (csuszka, TR, lapka lerakas/torles, torlesi keres, kolonia-epites, kereskedes, passz), ha azota senki mas nem lepett; megerosito kerdes a lepes leirasaval, tobbszor nyomhato, a jutalom-ablak folott is elerheto. Felrekattintas-javitas: +1 utan azonnali -1, vagy a most lerakott lapka torlese visszavonaskent mukodik. AUTOMATIKUS TR a szabalyzat szerint: oxigen, homerseklet, Venusz, a 3 Hold-rata minden emelt lepese es a szamozott (1-21) oceanok +1 TR (az ocean_NO nem ad) - emeles utan mar NEM kell kezzel TR-t nyomni. Venusz-lapka (Floating Array / Gas Mine / Cloud City) lerakasa +1 Venusz-lepes. Javitasok: a szemelyes ocean-track ujra lep (max 12); a szemelyes varos-track csak a Mars es a Mars koruli helyek varosaibol (a TV-szerkesztoben helyenkent kapcsolhato); gyarmatra generacionkent osszesen 1 kereskedes, epiteskor a trade-marker felugrik; az Uj jatek uriti a Naplot; hibaturo mentes-betoltes; toast modban a jutalmak sorban jonnek; ujracsatlakozas nem ir a Naplora; action cam csak emelesre. Optimalizacio: a board-nezetek csak valodi valtozaskor dolgoznak (kevesebb akku, nincs akadas). FONTOS: a TV-t (Windows host) is frissiteni kell a v2.4-re.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.4/TMGiga-Phone.ipa",
-      "size": 66216579,
+      "versionDescription": "Javitasok az elso v2.4-es teszt alapjan: TELEFONON UJRA LEHET LAPKAT RAKNI a Marsra/Holdra/Venuszra (a cella dupla koppintasa erintokepernyon nem erzekelodott, ezert nem nyilt meg a lerako menu; a koppintas-turest is a kijelzohoz igazitottuk). QR-olvaso: a kamera kepe mar nem tukrozott (a telefon elforgatasat is koveti). Specialis helyek (palyan kivuli varoshelyek): koppintasra a tabla rakozelit a helyre, a sarga kijeloles es a menu oda kerul, bezaraskor visszausik az elozo nezetre. Track-jelolok rakozeliteskor: ugyanugy kisebbednek, de hamarabb megallnak (maximalis zoomon ketszer akkorak, mint eddig) - telefonon es TV-n is. A passz vegleges: nem vonhato vissza. FONTOS: a TV-t (Windows host) is frissiteni kell a v2.5-re.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.5/TMGiga-Phone.ipa",
+      "size": 66221065,
       "versions": [
+        {
+          "version": "2.5",
+          "date": "2026-09-14",
+          "localizedDescription": "Javitasok az elso v2.4-es teszt alapjan: TELEFONON UJRA LEHET LAPKAT RAKNI a Marsra/Holdra/Venuszra (a cella dupla koppintasa erintokepernyon nem erzekelodott, ezert nem nyilt meg a lerako menu; a koppintas-turest is a kijelzohoz igazitottuk). QR-olvaso: a kamera kepe mar nem tukrozott (a telefon elforgatasat is koveti). Specialis helyek (palyan kivuli varoshelyek): koppintasra a tabla rakozelit a helyre, a sarga kijeloles es a menu oda kerul, bezaraskor visszausik az elozo nezetre. Track-jelolok rakozeliteskor: ugyanugy kisebbednek, de hamarabb megallnak (maximalis zoomon ketszer akkorak, mint eddig) - telefonon es TV-n is. A passz vegleges: nem vonhato vissza. FONTOS: a TV-t (Windows host) is frissiteni kell a v2.5-re.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.5/TMGiga-Phone.ipa",
+          "size": 66221065,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.4",
           "date": "2026-09-14",
