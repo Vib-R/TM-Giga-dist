@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.5",
+      "version": "2.6",
       "versionDate": "2026-09-14",
-      "versionDescription": "Javitasok az elso v2.4-es teszt alapjan: TELEFONON UJRA LEHET LAPKAT RAKNI a Marsra/Holdra/Venuszra (a cella dupla koppintasa erintokepernyon nem erzekelodott, ezert nem nyilt meg a lerako menu; a koppintas-turest is a kijelzohoz igazitottuk). QR-olvaso: a kamera kepe mar nem tukrozott (a telefon elforgatasat is koveti). Specialis helyek (palyan kivuli varoshelyek): koppintasra a tabla rakozelit a helyre, a sarga kijeloles es a menu oda kerul, bezaraskor visszausik az elozo nezetre. Track-jelolok rakozeliteskor: ugyanugy kisebbednek, de hamarabb megallnak (maximalis zoomon ketszer akkorak, mint eddig) - telefonon es TV-n is. A passz vegleges: nem vonhato vissza. FONTOS: a TV-t (Windows host) is frissiteni kell a v2.5-re.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.5/TMGiga-Phone.ipa",
-      "size": 66221065,
+      "versionDescription": "Csiszolas: a bolygo-zoom egyben kezeli a hatteret es az elemeket - a nagy tabla a lapkakkal, jelolokkel egyutt nagyit, a hatter a zoommal egyutt homalyosodik, a bolygo kepe es a lerakott lapkak a zoommal egyutt usznak be (es ki), nincs eltuno/felvillano elem; raközelitett nezetbol is ugras nelkul indul es oda ter vissza. Felugro ablakok (jutalom, engedelykeres, gyarmat, megerosites, beallitasok, csuszkak): az ablak melle nyomva es tartva az ablak attetszove valik, igy latszik a tabla; minden panel es menu finoman usz be es ki. Nyelvezet: Palanta (novény helyett), az egysegek nagybetuvel (Acel, Titan, Ho, Energia, Lebego...), Palanta-termeles stb. Fomenu: Terraforming Mars: GIGA cim; Profil es Csatlakozas cim a fomenu stilusaban, a Jatekosnev felirat nem log a mezobe; Beallitasok: Nyugtazando / Eltuno, Kepfrissites 60 / 120 FPS; QR-kod: uj kereso-ablak sarokjelolokkel es pasztazo csikkal. MEGJEGYZES: a jutalomszovegek a TV-rol jonnek, ezert az uj egysegnevekhez a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.6/TMGiga-Phone.ipa",
+      "size": 66229056,
       "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-09-14",
+          "localizedDescription": "Csiszolas: a bolygo-zoom egyben kezeli a hatteret es az elemeket - a nagy tabla a lapkakkal, jelolokkel egyutt nagyit, a hatter a zoommal egyutt homalyosodik, a bolygo kepe es a lerakott lapkak a zoommal egyutt usznak be (es ki), nincs eltuno/felvillano elem; raközelitett nezetbol is ugras nelkul indul es oda ter vissza. Felugro ablakok (jutalom, engedelykeres, gyarmat, megerosites, beallitasok, csuszkak): az ablak melle nyomva es tartva az ablak attetszove valik, igy latszik a tabla; minden panel es menu finoman usz be es ki. Nyelvezet: Palanta (novény helyett), az egysegek nagybetuvel (Acel, Titan, Ho, Energia, Lebego...), Palanta-termeles stb. Fomenu: Terraforming Mars: GIGA cim; Profil es Csatlakozas cim a fomenu stilusaban, a Jatekosnev felirat nem log a mezobe; Beallitasok: Nyugtazando / Eltuno, Kepfrissites 60 / 120 FPS; QR-kod: uj kereso-ablak sarokjelolokkel es pasztazo csikkal. MEGJEGYZES: a jutalomszovegek a TV-rol jonnek, ezert az uj egysegnevekhez a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.6/TMGiga-Phone.ipa",
+          "size": 66229056,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.5",
           "date": "2026-09-14",
