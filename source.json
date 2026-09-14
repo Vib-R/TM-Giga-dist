@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.3",
-      "versionDate": "2026-07-12",
-      "versionDescription": "TV-nezet atszabas: jatekoslista felul-kozepen (szin+nev+TR), generacio romai szammal sci-fi jelvenyben, gorgtheto Naplo (sortordeles, vekony scrollbar, gorgo), Beallitasok menu (Szerkesztes mod + Action cam kapcsolo). ACTION CAM: lerakasnal es csuszka-mozgatasnal a TV-kamera rakozelit a helyre, megjeloli, majd visszater az elozo nezetre. Telefon: a lerako-menu cellaja mostantol dupla-kattra nyilik, rakozelitve lassabb zoom, visszater az eredeti koordinatara/zoomra (nincs villodzas). Reward: osszeg + reszletek az info-gombnal (nagybetus, darabszam), kor alaku info-gomb hattertompitassal, OK/Begyujtve gomb. Ocean track kiveve a csuszkakbol; ocean_NO helyes tajolas; gyarmat-jelolo negyzet+vekony keret, trade-marker a 2-es pozicion; per-jatekos track-markerek szinnel+szammal, globalis markerek feheren. Tartalmazza a v2.2 fekvo-menu javitasokat (safe-area, kozepre igazitott menu/profil, minecraftos cim) es a QR-olvaso csiszolast is.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.3/TMGiga-Phone.ipa",
-      "size": 66276741,
+      "version": "2.4",
+      "versionDate": "2026-09-14",
+      "versionDescription": "VISSZAVONAS gomb a telefonon: a sajat legutobbi lepes visszavonasa (csuszka, TR, lapka lerakas/torles, torlesi keres, kolonia-epites, kereskedes, passz), ha azota senki mas nem lepett; megerosito kerdes a lepes leirasaval, tobbszor nyomhato, a jutalom-ablak folott is elerheto. Felrekattintas-javitas: +1 utan azonnali -1, vagy a most lerakott lapka torlese visszavonaskent mukodik. AUTOMATIKUS TR a szabalyzat szerint: oxigen, homerseklet, Venusz, a 3 Hold-rata minden emelt lepese es a szamozott (1-21) oceanok +1 TR (az ocean_NO nem ad) - emeles utan mar NEM kell kezzel TR-t nyomni. Venusz-lapka (Floating Array / Gas Mine / Cloud City) lerakasa +1 Venusz-lepes. Javitasok: a szemelyes ocean-track ujra lep (max 12); a szemelyes varos-track csak a Mars es a Mars koruli helyek varosaibol (a TV-szerkesztoben helyenkent kapcsolhato); gyarmatra generacionkent osszesen 1 kereskedes, epiteskor a trade-marker felugrik; az Uj jatek uriti a Naplot; hibaturo mentes-betoltes; toast modban a jutalmak sorban jonnek; ujracsatlakozas nem ir a Naplora; action cam csak emelesre. Optimalizacio: a board-nezetek csak valodi valtozaskor dolgoznak (kevesebb akku, nincs akadas). FONTOS: a TV-t (Windows host) is frissiteni kell a v2.4-re.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.4/TMGiga-Phone.ipa",
+      "size": 66216579,
       "versions": [
+        {
+          "version": "2.4",
+          "date": "2026-09-14",
+          "localizedDescription": "VISSZAVONAS gomb a telefonon: a sajat legutobbi lepes visszavonasa (csuszka, TR, lapka lerakas/torles, torlesi keres, kolonia-epites, kereskedes, passz), ha azota senki mas nem lepett; megerosito kerdes a lepes leirasaval, tobbszor nyomhato, a jutalom-ablak folott is elerheto. Felrekattintas-javitas: +1 utan azonnali -1, vagy a most lerakott lapka torlese visszavonaskent mukodik. AUTOMATIKUS TR a szabalyzat szerint: oxigen, homerseklet, Venusz, a 3 Hold-rata minden emelt lepese es a szamozott (1-21) oceanok +1 TR (az ocean_NO nem ad) - emeles utan mar NEM kell kezzel TR-t nyomni. Venusz-lapka (Floating Array / Gas Mine / Cloud City) lerakasa +1 Venusz-lepes. Javitasok: a szemelyes ocean-track ujra lep (max 12); a szemelyes varos-track csak a Mars es a Mars koruli helyek varosaibol (a TV-szerkesztoben helyenkent kapcsolhato); gyarmatra generacionkent osszesen 1 kereskedes, epiteskor a trade-marker felugrik; az Uj jatek uriti a Naplot; hibaturo mentes-betoltes; toast modban a jutalmak sorban jonnek; ujracsatlakozas nem ir a Naplora; action cam csak emelesre. Optimalizacio: a board-nezetek csak valodi valtozaskor dolgoznak (kevesebb akku, nincs akadas). FONTOS: a TV-t (Windows host) is frissiteni kell a v2.4-re.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.4/TMGiga-Phone.ipa",
+          "size": 66216579,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.3",
           "date": "2026-07-12",
