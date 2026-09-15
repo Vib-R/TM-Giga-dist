@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.8",
+      "version": "2.9",
       "versionDate": "2026-09-15",
-      "versionDescription": "Veletlen koppintasok kiszurese: a ket ujjas nagyitas vagy a huzas vege mar nem szamit koppintasnak - nem nyilik meg a bolygo, ha nagyitas kozben mindket ujj rajta van, es a nagyitas nem szamit a dupla koppintas elsonek. Lerako-menu: csak az jelenik meg, amit tenyleg le lehet rakni az adott mezore (fenntartott mezon csak a nevesitett lapka, tele mezon csak a torles; fenntartott mezon is lehet torolni). Ha a TV megis elutasit egy lepest, a telefon piros uzenetben mutatja az okat. MEGJEGYZES: a menu-szureshez es a piros uzenethez a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.8/TMGiga-Phone.ipa",
-      "size": 66251570,
+      "versionDescription": "Visszavonas jatekosonkent: a nyil-gomb mindig latszik (szurke, ha nincs mit visszavonni), es csak a sajat lepesed hatasat vonja vissza - a tobbiek kozben tett lepesei maradnak; egy generacion belul tobb lepes is visszavonhato egyesevel, generaciovaltaskor urul. Passz utan mar nem lehet lerakni, csuszkat allitani vagy gyarmatra lepni, csak nezelodni. Generaciovaltaskor beuszo animacio a generacio romai szamaval. Gyarmat: ugyanarra a gyarmatra tobb sajat kolonia is epitheto (megerositessel). Szemelyes csuszkak: ha tobb mint 2 jatekos all egy mezon, 2 oszlopba rendezodnek. TV: uj Admin mod (lapka lerakas/torles es csuszkak javitasa). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.9/TMGiga-Phone.ipa",
+      "size": 66437977,
       "versions": [
+        {
+          "version": "2.9",
+          "date": "2026-09-15",
+          "localizedDescription": "Visszavonas jatekosonkent: a nyil-gomb mindig latszik (szurke, ha nincs mit visszavonni), es csak a sajat lepesed hatasat vonja vissza - a tobbiek kozben tett lepesei maradnak; egy generacion belul tobb lepes is visszavonhato egyesevel, generaciovaltaskor urul. Passz utan mar nem lehet lerakni, csuszkat allitani vagy gyarmatra lepni, csak nezelodni. Generaciovaltaskor beuszo animacio a generacio romai szamaval. Gyarmat: ugyanarra a gyarmatra tobb sajat kolonia is epitheto (megerositessel). Szemelyes csuszkak: ha tobb mint 2 jatekos all egy mezon, 2 oszlopba rendezodnek. TV: uj Admin mod (lapka lerakas/torles es csuszkak javitasa). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.9/TMGiga-Phone.ipa",
+          "size": 66437977,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.8",
           "date": "2026-09-15",
