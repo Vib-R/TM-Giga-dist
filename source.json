@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.7",
+      "version": "2.8",
       "versionDate": "2026-09-15",
-      "versionDescription": "Szabalyok: az Erdo lerakasa a Marsra emeli az oxigent - TR +1 es a szemelyes oxigen-csuszka is lep (ha az oxigen mar a maximumon van, nem lep semmi). A 21. utani, szam nelkuli ocean mar nem lepteti a szemelyes ocean-csuszkat. Uj: ismetlodo csillagos hatter a jatekter mogott, finom pislakolassal; a tabla huzasat es nagyitasat enyhe terhatassal koveti. MEGJEGYZES: a szabalyvaltozasok a TV-n futnak, ezert a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.7/TMGiga-Phone.ipa",
-      "size": 66240341,
+      "versionDescription": "Veletlen koppintasok kiszurese: a ket ujjas nagyitas vagy a huzas vege mar nem szamit koppintasnak - nem nyilik meg a bolygo, ha nagyitas kozben mindket ujj rajta van, es a nagyitas nem szamit a dupla koppintas elsonek. Lerako-menu: csak az jelenik meg, amit tenyleg le lehet rakni az adott mezore (fenntartott mezon csak a nevesitett lapka, tele mezon csak a torles; fenntartott mezon is lehet torolni). Ha a TV megis elutasit egy lepest, a telefon piros uzenetben mutatja az okat. MEGJEGYZES: a menu-szureshez es a piros uzenethez a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.8/TMGiga-Phone.ipa",
+      "size": 66251570,
       "versions": [
+        {
+          "version": "2.8",
+          "date": "2026-09-15",
+          "localizedDescription": "Veletlen koppintasok kiszurese: a ket ujjas nagyitas vagy a huzas vege mar nem szamit koppintasnak - nem nyilik meg a bolygo, ha nagyitas kozben mindket ujj rajta van, es a nagyitas nem szamit a dupla koppintas elsonek. Lerako-menu: csak az jelenik meg, amit tenyleg le lehet rakni az adott mezore (fenntartott mezon csak a nevesitett lapka, tele mezon csak a torles; fenntartott mezon is lehet torolni). Ha a TV megis elutasit egy lepest, a telefon piros uzenetben mutatja az okat. MEGJEGYZES: a menu-szureshez es a piros uzenethez a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.8/TMGiga-Phone.ipa",
+          "size": 66251570,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.7",
           "date": "2026-09-15",
