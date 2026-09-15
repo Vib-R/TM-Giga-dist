@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.6",
-      "versionDate": "2026-09-14",
-      "versionDescription": "Csiszolas: a bolygo-zoom egyben kezeli a hatteret es az elemeket - a nagy tabla a lapkakkal, jelolokkel egyutt nagyit, a hatter a zoommal egyutt homalyosodik, a bolygo kepe es a lerakott lapkak a zoommal egyutt usznak be (es ki), nincs eltuno/felvillano elem; rakozelitett nezetbol is ugras nelkul indul es oda ter vissza. Felugro ablakok (jutalom, engedelykeres, gyarmat, megerosites, beallitasok, csuszkak): az ablak melle nyomva es tartva az ablak attetszove valik, igy latszik a tabla; minden panel es menu finoman usz be es ki. Nyelvezet: Palanta (noveny helyett), az egysegek nagybetuvel (Acel, Titan, Ho, Energia, Lebego...), Palanta-termeles stb. Fomenu: Terraforming Mars: GIGA cim; Profil es Csatlakozas cim a fomenu stilusaban, a Jatekosnev felirat nem log a mezobe; Beallitasok: Nyugtazando / Eltuno, Kepfrissites 60 / 120 FPS; QR-kod: uj kereso-ablak sarokjelolokkel es pasztazo csikkal. MEGJEGYZES: a jutalomszovegek a TV-rol jonnek, ezert az uj egysegnevekhez a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.6/TMGiga-Phone.ipa",
-      "size": 66229056,
+      "version": "2.7",
+      "versionDate": "2026-09-15",
+      "versionDescription": "Szabalyok: az Erdo lerakasa a Marsra emeli az oxigent - TR +1 es a szemelyes oxigen-csuszka is lep (ha az oxigen mar a maximumon van, nem lep semmi). A 21. utani, szam nelkuli ocean mar nem lepteti a szemelyes ocean-csuszkat. Uj: ismetlodo csillagos hatter a jatekter mogott, finom pislakolassal; a tabla huzasat es nagyitasat enyhe terhatassal koveti. MEGJEGYZES: a szabalyvaltozasok a TV-n futnak, ezert a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.7/TMGiga-Phone.ipa",
+      "size": 66240341,
       "versions": [
+        {
+          "version": "2.7",
+          "date": "2026-09-15",
+          "localizedDescription": "Szabalyok: az Erdo lerakasa a Marsra emeli az oxigent - TR +1 es a szemelyes oxigen-csuszka is lep (ha az oxigen mar a maximumon van, nem lep semmi). A 21. utani, szam nelkuli ocean mar nem lepteti a szemelyes ocean-csuszkat. Uj: ismetlodo csillagos hatter a jatekter mogott, finom pislakolassal; a tabla huzasat es nagyitasat enyhe terhatassal koveti. MEGJEGYZES: a szabalyvaltozasok a TV-n futnak, ezert a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.7/TMGiga-Phone.ipa",
+          "size": 66240341,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.6",
           "date": "2026-09-14",
