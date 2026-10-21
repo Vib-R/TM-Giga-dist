@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "2.9",
-      "versionDate": "2026-09-15",
-      "versionDescription": "Visszavonas jatekosonkent: a nyil-gomb mindig latszik (szurke, ha nincs mit visszavonni), es csak a sajat lepesed hatasat vonja vissza - a tobbiek kozben tett lepesei maradnak; egy generacion belul tobb lepes is visszavonhato egyesevel, generaciovaltaskor urul. Passz utan mar nem lehet lerakni, csuszkat allitani vagy gyarmatra lepni, csak nezelodni. Generaciovaltaskor beuszo animacio a generacio romai szamaval. Gyarmat: ugyanarra a gyarmatra tobb sajat kolonia is epitheto (megerositessel). Szemelyes csuszkak: ha tobb mint 2 jatekos all egy mezon, 2 oszlopba rendezodnek. TV: uj Admin mod (lapka lerakas/torles es csuszkak javitasa). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v2.9/TMGiga-Phone.ipa",
-      "size": 66437977,
+      "version": "3.0",
+      "versionDate": "2026-10-21",
+      "versionDescription": "Nagy frissites. Uj also gombsor (Mars, Hold, Venusz, Gyarmatok, Csuszkak) es teljes kepernyos gyarmat-nezet kolonia-epitessel es kereskedessel. Magyar tabla- es gyarmat-kepek, magyar lapkanevek, a jutalmak a lapok ikonjaival (a penz osszege az ermebe irva). Specialis lapkak a kartyak szerint: a lerako-menu csak a szabalyosan lerakhatokat kinalja, sajat es szomszedsagi bonuszok, buntetesek (piros szelu lapkak, veszelylapka). Jatekosjelolok: teruletfoglalas, ezustkocka, kozos tulajdon. Veszelylapkara epites: a veszelylapka lekerul, TR +1. Mozgo biokupola athelyezese: a helyere Novenyzet kerul, a kupola atugrik a valasztott mezore. Ipari lapkak: az eroforrasokat ket szomszedos mezore osztod szet (a telefon rakozelit, majd valasztasz); az ures mezon varo eroforrast a kovetkezo lerako veszi fel. Visszavonaskor emlekezteto, ha a jutalmat mar felvetted. Finom animaciok: lerakas, gombok, atugras, kirepules. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.0/TMGiga-Phone.ipa",
+      "size": 70700268,
       "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-10-21",
+          "localizedDescription": "Nagy frissites. Uj also gombsor (Mars, Hold, Venusz, Gyarmatok, Csuszkak) es teljes kepernyos gyarmat-nezet kolonia-epitessel es kereskedessel. Magyar tabla- es gyarmat-kepek, magyar lapkanevek, a jutalmak a lapok ikonjaival (a penz osszege az ermebe irva). Specialis lapkak a kartyak szerint: a lerako-menu csak a szabalyosan lerakhatokat kinalja, sajat es szomszedsagi bonuszok, buntetesek (piros szelu lapkak, veszelylapka). Jatekosjelolok: teruletfoglalas, ezustkocka, kozos tulajdon. Veszelylapkara epites: a veszelylapka lekerul, TR +1. Mozgo biokupola athelyezese: a helyere Novenyzet kerul, a kupola atugrik a valasztott mezore. Ipari lapkak: az eroforrasokat ket szomszedos mezore osztod szet (a telefon rakozelit, majd valasztasz); az ures mezon varo eroforrast a kovetkezo lerako veszi fel. Visszavonaskor emlekezteto, ha a jutalmat mar felvetted. Finom animaciok: lerakas, gombok, atugras, kirepules. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.0/TMGiga-Phone.ipa",
+          "size": 70700268,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "2.9",
           "date": "2026-09-15",
