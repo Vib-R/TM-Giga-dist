@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "3.0",
-      "versionDate": "2026-10-21",
-      "versionDescription": "Nagy frissites. Uj also gombsor (Mars, Hold, Venusz, Gyarmatok, Csuszkak) es teljes kepernyos gyarmat-nezet kolonia-epitessel es kereskedessel. Magyar tabla- es gyarmat-kepek, magyar lapkanevek, a jutalmak a lapok ikonjaival (a penz osszege az ermebe irva). Specialis lapkak a kartyak szerint: a lerako-menu csak a szabalyosan lerakhatokat kinalja, sajat es szomszedsagi bonuszok, buntetesek (piros szelu lapkak, veszelylapka). Jatekosjelolok: teruletfoglalas, ezustkocka, kozos tulajdon. Veszelylapkara epites: a veszelylapka lekerul, TR +1. Mozgo biokupola athelyezese: a helyere Novenyzet kerul, a kupola atugrik a valasztott mezore. Ipari lapkak: az eroforrasokat ket szomszedos mezore osztod szet (a telefon rakozelit, majd valasztasz); az ures mezon varo eroforrast a kovetkezo lerako veszi fel. Visszavonaskor emlekezteto, ha a jutalmat mar felvetted. Finom animaciok: lerakas, gombok, atugras, kirepules. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.0/TMGiga-Phone.ipa",
-      "size": 70700268,
+      "version": "3.5",
+      "versionDate": "2026-10-22",
+      "versionDescription": "Nagy frissites. POLITIKA (Turmoil): a tabla tetejen a 6 part lapja es politikaja, a kuldottek, a partvezetok, a kormanypart, az elnok es a 3 globalis esemeny. Uj Politika gomb a telefonon: kuldott kuldese (lobbi, 5 ME, ingyenes), befolyas, az esemenyek szovege, kartyahatasok, elnoki dontes (bonusz, politika, elnoki jutalom). A generacio vegen a program levonja a -1 TR-t, lejatssza az esemenyt es uj kormanyt alakit. MERFOLDKOVEK ES DIJAK a tabla aljan: megszerzes 8 ME, alapitas 8-20 ME, elo allas, info gomb, csere, a korlaton feluli megszerzes kartyaval. Tovabba: uj lapka-kepek, negyzetes jelolok, csoportositott lerako-menu, atirt gyarmat-nezet (info, eltavolitas, kartyahatasos kereskedes), jutalom-jelzo, uj csuszkak, rontgen-nagyito, stabilabb ujracsatlakozas. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.5/TMGiga-Phone.ipa",
+      "size": 187850774,
       "versions": [
+        {
+          "version": "3.5",
+          "date": "2026-10-22",
+          "localizedDescription": "Nagy frissites. POLITIKA (Turmoil): a tabla tetejen a 6 part lapja es politikaja, a kuldottek, a partvezetok, a kormanypart, az elnok es a 3 globalis esemeny. Uj Politika gomb a telefonon: kuldott kuldese (lobbi, 5 ME, ingyenes), befolyas, az esemenyek szovege, kartyahatasok, elnoki dontes (bonusz, politika, elnoki jutalom). A generacio vegen a program levonja a -1 TR-t, lejatssza az esemenyt es uj kormanyt alakit. MERFOLDKOVEK ES DIJAK a tabla aljan: megszerzes 8 ME, alapitas 8-20 ME, elo allas, info gomb, csere, a korlaton feluli megszerzes kartyaval. Tovabba: uj lapka-kepek, negyzetes jelolok, csoportositott lerako-menu, atirt gyarmat-nezet (info, eltavolitas, kartyahatasos kereskedes), jutalom-jelzo, uj csuszkak, rontgen-nagyito, stabilabb ujracsatlakozas. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.5/TMGiga-Phone.ipa",
+          "size": 187850774,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "3.0",
           "date": "2026-10-21",
