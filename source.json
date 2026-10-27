@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "3.7",
+      "version": "3.8",
       "versionDate": "2026-10-27",
-      "versionDescription": "SZOVEGMERET: uj Normal / Nagy kapcsolo a Beallitasokban (kis telefonon, pl. SE, mini a Nagy az alap), nagyobb feliratok es gombok mindenhol. CSUSZKAK: nagyobb -/+ gomb, hosszan nyomva gyorsulva gyujt es egy lepesben kuldi; bezaro X. JAVITASOK: foglalt mezore csak raepitheto specialis lapka kerulhet (oceanra ocean nem ad TR-t); a jutalom-ikon nem takarja a bezaro X-et es a keresot; politika-panel es elnoki dontes kis kepernyon is jol olvashato. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.7/TMGiga-Phone.ipa",
-      "size": 227483565,
+      "versionDescription": "ACTION CAM: egy lepes utan alul eltuno kartya mutatja, mely csuszkak mozdultak (elotte -> utana); rakoppintva a Csuszkak nyilik. Beallitas: csak sajat / mindenki lepesenel. OFFLINE BEMUTATO a fomenubol: kitoltott jatek kitalalt jatekosokkal, TV nelkul, semmi sem mentodik. UJ FOMENU: forgo Mars, csillagok, szines gombok. SZABALYZAT: csak a szabalyok, fejezetenkent animalt abrakkal (a Turmoil-fazis lepesenkent). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.8/TMGiga-Phone.ipa",
+      "size": 228447281,
       "versions": [
+        {
+          "version": "3.8",
+          "date": "2026-10-27",
+          "localizedDescription": "ACTION CAM: egy lepes utan alul eltuno kartya mutatja, mely csuszkak mozdultak (elotte -> utana); rakoppintva a Csuszkak nyilik. Beallitas: csak sajat / mindenki lepesenel. OFFLINE BEMUTATO a fomenubol: kitoltott jatek kitalalt jatekosokkal, TV nelkul, semmi sem mentodik. UJ FOMENU: forgo Mars, csillagok, szines gombok. SZABALYZAT: csak a szabalyok, fejezetenkent animalt abrakkal (a Turmoil-fazis lepesenkent). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.8/TMGiga-Phone.ipa",
+          "size": 228447281,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "3.7",
           "date": "2026-10-27",
