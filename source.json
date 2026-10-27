@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "3.6",
-      "versionDate": "2026-10-23",
-      "versionDescription": "Egyseges, szebb telefonos felulet: uj ablakok, a kameraszigetet kikerulo elrendezes, hosszu nyomasra nagy elonezet, keresheto Szabalyzat es sugo a Beallitasokban, uj gombsor-ikonok. MERFOLDKOVEK: ujraigenyles (8 ME), jatekosszinu jelvenyek a tablan. POLITIKA: kotelezo elnoki dontes (addig senki sem lephet), ME-elonezet a bonuszoknal, a Vorosok hatlapi politikaja, a 36 hivatalos esemeny a magyar kartyak kepevel. KORSORREND es KEZDOJATEKOS a TV lobbijaban, a kezdojatekos-jelolovel. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.6/TMGiga-Phone.ipa",
-      "size": 227467503,
+      "version": "3.7",
+      "versionDate": "2026-10-27",
+      "versionDescription": "SZOVEGMERET: uj Normal / Nagy kapcsolo a Beallitasokban (kis telefonon, pl. SE, mini a Nagy az alap), nagyobb feliratok es gombok mindenhol. CSUSZKAK: nagyobb -/+ gomb, hosszan nyomva gyorsulva gyujt es egy lepesben kuldi; bezaro X. JAVITASOK: foglalt mezore csak raepitheto specialis lapka kerulhet (oceanra ocean nem ad TR-t); a jutalom-ikon nem takarja a bezaro X-et es a keresot; politika-panel es elnoki dontes kis kepernyon is jol olvashato. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.7/TMGiga-Phone.ipa",
+      "size": 227483565,
       "versions": [
+        {
+          "version": "3.7",
+          "date": "2026-10-27",
+          "localizedDescription": "SZOVEGMERET: uj Normal / Nagy kapcsolo a Beallitasokban (kis telefonon, pl. SE, mini a Nagy az alap), nagyobb feliratok es gombok mindenhol. CSUSZKAK: nagyobb -/+ gomb, hosszan nyomva gyorsulva gyujt es egy lepesben kuldi; bezaro X. JAVITASOK: foglalt mezore csak raepitheto specialis lapka kerulhet (oceanra ocean nem ad TR-t); a jutalom-ikon nem takarja a bezaro X-et es a keresot; politika-panel es elnoki dontes kis kepernyon is jol olvashato. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v3.7/TMGiga-Phone.ipa",
+          "size": 227483565,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "3.6",
           "date": "2026-10-23",
