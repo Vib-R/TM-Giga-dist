@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.0",
+      "version": "4.1",
       "versionDate": "2026-10-29",
-      "versionDescription": "PROFIL: uj profil a fomenu stilusaban, sajat jatekosszin a teljes szinskalabol. STILUSOK: 12 stilus (osszeillo erdo + varos, generalt lapkak); a holdi, venuszi es ipari lapkak is a tulajdonos stilusaban. KARTYAS VAROSOK: 60 varoskartya sajat lapkaval, a varos lerakasakor valaszthato. LAPKAK: 2D/3D kapcsolo (3D: arnyek, kiemelkedo fak es hazak) es animacio (szel az erdokben, csillogo viz, pislakolo fenyek). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.0/TMGiga-Phone.ipa",
-      "size": 265342090,
+      "versionDescription": "KERESKEDES: a kereskedo stilusanak urhajoja szep lassan a gyarmatra repul (a jatekos egyik varosabol, ha nincs, a Mars kozeperol), szaggatott vonallal jelzett palyan, minden eszkozon; minden stilusnak sajat hajoja van izzo hajtomuvekkel. UJ STILUSOK: Phyrexia, Gyuruk Ura, Phineas es Ferb (15 stilus). OCEANOK: videobol keszult mozgo viz, a szomszedos oceanok osszeolvadnak. LERAKAS-ANIMACIOK: csapaslapka foldcsuszamlassal, erdo levelekkel, varos porral, ocean frocsenessel. VAROSOK: derengo, pislakolo fenyek. JELOLOK: 6 forma (kocka, kristaly, erme, pajzs, csillag, hatszog). PROFIL: a kartyan minden aktiv kinezet (erdo, varos, hajo, holdi, venuszi es ipari lapkak). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.1/TMGiga-Phone.ipa",
+      "size": 271681005,
       "versions": [
+        {
+          "version": "4.1",
+          "date": "2026-10-29",
+          "localizedDescription": "KERESKEDES: a kereskedo stilusanak urhajoja szep lassan a gyarmatra repul (a jatekos egyik varosabol, ha nincs, a Mars kozeperol), szaggatott vonallal jelzett palyan, minden eszkozon; minden stilusnak sajat hajoja van izzo hajtomuvekkel. UJ STILUSOK: Phyrexia, Gyuruk Ura, Phineas es Ferb (15 stilus). OCEANOK: videobol keszult mozgo viz, a szomszedos oceanok osszeolvadnak. LERAKAS-ANIMACIOK: csapaslapka foldcsuszamlassal, erdo levelekkel, varos porral, ocean frocsenessel. VAROSOK: derengo, pislakolo fenyek. JELOLOK: 6 forma (kocka, kristaly, erme, pajzs, csillag, hatszog). PROFIL: a kartyan minden aktiv kinezet (erdo, varos, hajo, holdi, venuszi es ipari lapkak). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.1/TMGiga-Phone.ipa",
+          "size": 271681005,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.0",
           "date": "2026-10-29",
