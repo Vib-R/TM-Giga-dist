@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.1",
+      "version": "4.2",
       "versionDate": "2026-10-29",
-      "versionDescription": "KERESKEDES: a kereskedo stilusanak urhajoja szep lassan a gyarmatra repul (a jatekos egyik varosabol, ha nincs, a Mars kozeperol), szaggatott vonallal jelzett palyan, minden eszkozon; minden stilusnak sajat hajoja van izzo hajtomuvekkel. UJ STILUSOK: Phyrexia, Gyuruk Ura, Phineas es Ferb (15 stilus). OCEANOK: videobol keszult mozgo viz, a szomszedos oceanok osszeolvadnak. LERAKAS-ANIMACIOK: csapaslapka foldcsuszamlassal, erdo levelekkel, varos porral, ocean frocsenessel. VAROSOK: derengo, pislakolo fenyek. JELOLOK: 6 forma (kocka, kristaly, erme, pajzs, csillag, hatszog). PROFIL: a kartyan minden aktiv kinezet (erdo, varos, hajo, holdi, venuszi es ipari lapkak). MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.1/TMGiga-Phone.ipa",
-      "size": 271681005,
+      "versionDescription": "IKONOK: uj Ikonjaim felulet a kartya-ikonok nyilvantartasara, passz elott rakerdez; a Fold, Jupiter, Venusz es Mars ikon a kozos ikon-savval osszekotve; a kormanyparti bonusz es az ikonos merfoldkovek / dijak ebbol szamolnak. LAPKA-INFO: lapkara koppintva a neve, a gazdaja, a retegei, mikor kerult le es a tudnivalok. GOMBSOR: osszecsukhato, a tabla szinte teljesen szabad. KERESKEDES: a gyarmaton allo flotta kis hajoi folyamatosan ingaznak a varos es a gyarmat kozott; az animaciok mar nem latszanak at a teljes kepernyos nezeteken. PROFIL: lapozhato stilus-galeria; a jatekosjelolo ujra mindenkinek kocka. ANDROID: APK a kiadas mellett. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.2/TMGiga-Phone.ipa",
+      "size": 271985160,
       "versions": [
+        {
+          "version": "4.2",
+          "date": "2026-10-29",
+          "localizedDescription": "IKONOK: uj Ikonjaim felulet a kartya-ikonok nyilvantartasara, passz elott rakerdez; a Fold, Jupiter, Venusz es Mars ikon a kozos ikon-savval osszekotve; a kormanyparti bonusz es az ikonos merfoldkovek / dijak ebbol szamolnak. LAPKA-INFO: lapkara koppintva a neve, a gazdaja, a retegei, mikor kerult le es a tudnivalok. GOMBSOR: osszecsukhato, a tabla szinte teljesen szabad. KERESKEDES: a gyarmaton allo flotta kis hajoi folyamatosan ingaznak a varos es a gyarmat kozott; az animaciok mar nem latszanak at a teljes kepernyos nezeteken. PROFIL: lapozhato stilus-galeria; a jatekosjelolo ujra mindenkinek kocka. ANDROID: APK a kiadas mellett. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.2/TMGiga-Phone.ipa",
+          "size": 271985160,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.1",
           "date": "2026-10-29",
