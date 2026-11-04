@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.3",
+      "version": "4.4",
       "versionDate": "2026-11-04",
-      "versionDescription": "VEGEREDMENY: a jatek vegen pontozas es gyozelmi jelenet; az Elozo jatekaim kozott a lezart partik visszanezhetok. HATASLAPOK: kb. 60 hataslap keresovel. ESEMENYEK: minden globalis esemeny kiszamolva, a generacio elejen elorejelzes. TABLA: egy kamera; kozelrol madarak az erdok, dronok a varosok folott; a Mozgo biokupola athelyezese a lapka adatai alatti gombbal. HALOZAT: kb. 10x kisebb uzenetek, gyorsabb szinkron. KINEZET: egyseges ablakok, uj TV lobbi, uj app-ikon es nev. ANDROID: APK a kiadas mellett. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.3/TMGiga-Phone.ipa",
-      "size": 363850181,
+      "versionDescription": "BOLYGOK: nincs homaly, a Mars/Hold/Venusz gomb csak odakozelit, a gombsor vegig latszik; a tablan duplan koppintva egy mezore rogton a lerako-menu; ures mezon elore latszik, mit kapsz es mit veszitesz (pl. veszelylapka mellett). TABLA: a nagyitas nem ugrik; az oceanok szegelye hezag nelkul fut; esemenykartyak a keretben, hosszan nyomva a reszletek; hajok, vitorlasok, kisebb madarak es repulok; uj lerakas-animaciok. JUTALMAK: a savok lerakhato jutalmai a kezedbe kerulnek. VEGEREDMENY: holtversenynel a tobb ME dont; elo tuzijatek. UJ: Fo dokkoloallomas marsi keppel; elo generaciovaltas es kod; rendezett Elozo jatekaim es Beallitasok. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.4/TMGiga-Phone.ipa",
+      "size": 367491604,
       "versions": [
+        {
+          "version": "4.4",
+          "date": "2026-11-04",
+          "localizedDescription": "BOLYGOK: nincs homaly, a Mars/Hold/Venusz gomb csak odakozelit, a gombsor vegig latszik; a tablan duplan koppintva egy mezore rogton a lerako-menu; ures mezon elore latszik, mit kapsz es mit veszitesz (pl. veszelylapka mellett). TABLA: a nagyitas nem ugrik; az oceanok szegelye hezag nelkul fut; esemenykartyak a keretben, hosszan nyomva a reszletek; hajok, vitorlasok, kisebb madarak es repulok; uj lerakas-animaciok. JUTALMAK: a savok lerakhato jutalmai a kezedbe kerulnek. VEGEREDMENY: holtversenynel a tobb ME dont; elo tuzijatek. UJ: Fo dokkoloallomas marsi keppel; elo generaciovaltas es kod; rendezett Elozo jatekaim es Beallitasok. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.4/TMGiga-Phone.ipa",
+          "size": 367491604,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.3",
           "date": "2026-11-04",
