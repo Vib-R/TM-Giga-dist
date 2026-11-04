@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.2",
-      "versionDate": "2026-10-29",
-      "versionDescription": "IKONOK: uj Ikonjaim felulet a kartya-ikonok nyilvantartasara, passz elott rakerdez; a Fold, Jupiter, Venusz es Mars ikon a kozos ikon-savval osszekotve; a kormanyparti bonusz es az ikonos merfoldkovek / dijak ebbol szamolnak. LAPKA-INFO: lapkara koppintva a neve, a gazdaja, a retegei, mikor kerult le es a tudnivalok. GOMBSOR: osszecsukhato, a tabla szinte teljesen szabad. KERESKEDES: a gyarmaton allo flotta kis hajoi folyamatosan ingaznak a varos es a gyarmat kozott; az animaciok mar nem latszanak at a teljes kepernyos nezeteken. PROFIL: lapozhato stilus-galeria; a jatekosjelolo ujra mindenkinek kocka. ANDROID: APK a kiadas mellett. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.2/TMGiga-Phone.ipa",
-      "size": 271985160,
+      "version": "4.3",
+      "versionDate": "2026-11-04",
+      "versionDescription": "VEGEREDMENY: a jatek vegen pontozas es gyozelmi jelenet; az Elozo jatekaim kozott a lezart partik visszanezhetok. HATASLAPOK: kb. 60 hataslap keresovel. ESEMENYEK: minden globalis esemeny kiszamolva, a generacio elejen elorejelzes. TABLA: egy kamera; kozelrol madarak az erdok, dronok a varosok folott; a Mozgo biokupola athelyezese a lapka adatai alatti gombbal. HALOZAT: kb. 10x kisebb uzenetek, gyorsabb szinkron. KINEZET: egyseges ablakok, uj TV lobbi, uj app-ikon es nev. ANDROID: APK a kiadas mellett. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.3/TMGiga-Phone.ipa",
+      "size": 363850181,
       "versions": [
+        {
+          "version": "4.3",
+          "date": "2026-11-04",
+          "localizedDescription": "VEGEREDMENY: a jatek vegen pontozas es gyozelmi jelenet; az Elozo jatekaim kozott a lezart partik visszanezhetok. HATASLAPOK: kb. 60 hataslap keresovel. ESEMENYEK: minden globalis esemeny kiszamolva, a generacio elejen elorejelzes. TABLA: egy kamera; kozelrol madarak az erdok, dronok a varosok folott; a Mozgo biokupola athelyezese a lapka adatai alatti gombbal. HALOZAT: kb. 10x kisebb uzenetek, gyorsabb szinkron. KINEZET: egyseges ablakok, uj TV lobbi, uj app-ikon es nev. ANDROID: APK a kiadas mellett. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.3/TMGiga-Phone.ipa",
+          "size": 363850181,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.2",
           "date": "2026-10-29",
