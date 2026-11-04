@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.4",
+      "version": "4.5",
       "versionDate": "2026-11-04",
-      "versionDescription": "BOLYGOK: nincs homaly, a Mars/Hold/Venusz gomb csak odakozelit, a gombsor vegig latszik; a tablan duplan koppintva egy mezore rogton a lerako-menu; ures mezon elore latszik, mit kapsz es mit veszitesz (pl. veszelylapka mellett). TABLA: a nagyitas nem ugrik; az oceanok szegelye hezag nelkul fut; esemenykartyak a keretben, hosszan nyomva a reszletek; hajok, vitorlasok, kisebb madarak es repulok; uj lerakas-animaciok. JUTALMAK: a savok lerakhato jutalmai a kezedbe kerulnek. VEGEREDMENY: holtversenynel a tobb ME dont; elo tuzijatek. UJ: Fo dokkoloallomas marsi keppel; elo generaciovaltas es kod; rendezett Elozo jatekaim es Beallitasok. MEGJEGYZES: a TV-t (Windows host) is frissiteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.4/TMGiga-Phone.ipa",
-      "size": 367491604,
+      "versionDescription": "ÚJDONSÁGOK\n• Filmes nyitány: új játék indulásakor egy rövid film a TV-n és a telefonon is (koppintásra átugorható).\n• Párt cseréje: a párt ablakában egy nem játszó pártra cserélheted (a 12 pártból 6 van játékban).\n• 27 speciális lapka szebb, jobban kiemelkedő 3D-s képet kapott.\n\nJAVÍTÁSOK\n• A lerakott lapkák pontosan a nyomtatott rácson ülnek (Hold, Vénusz és a Mars alsó sorai).\n• Az összeolvadó óceánok csatlakozásánál nincs többé lépcső vagy világos csík.\n• A játék végén csak Növényzetlapka rakható a Marsra, és beleszámít a végeredménybe.\n\nBEÁLLÍTÁSOK\n• Grafika: Közepes (lapos, nyugodt tábla) vagy Magas (3D és animáció).\n• Action cam: Saját / Mindenki / Ki.\n• A DEMÓ (próbajáték TV nélkül) a Beállításokból indítható.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.5/TMGiga-Phone.ipa",
+      "size": 377662428,
       "versions": [
+        {
+          "version": "4.5",
+          "date": "2026-11-04",
+          "localizedDescription": "ÚJDONSÁGOK\n• Filmes nyitány: új játék indulásakor egy rövid film a TV-n és a telefonon is (koppintásra átugorható).\n• Párt cseréje: a párt ablakában egy nem játszó pártra cserélheted (a 12 pártból 6 van játékban).\n• 27 speciális lapka szebb, jobban kiemelkedő 3D-s képet kapott.\n\nJAVÍTÁSOK\n• A lerakott lapkák pontosan a nyomtatott rácson ülnek (Hold, Vénusz és a Mars alsó sorai).\n• Az összeolvadó óceánok csatlakozásánál nincs többé lépcső vagy világos csík.\n• A játék végén csak Növényzetlapka rakható a Marsra, és beleszámít a végeredménybe.\n\nBEÁLLÍTÁSOK\n• Grafika: Közepes (lapos, nyugodt tábla) vagy Magas (3D és animáció).\n• Action cam: Saját / Mindenki / Ki.\n• A DEMÓ (próbajáték TV nélkül) a Beállításokból indítható.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.5/TMGiga-Phone.ipa",
+          "size": 377662428,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.4",
           "date": "2026-11-04",
