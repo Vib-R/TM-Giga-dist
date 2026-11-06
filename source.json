@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.5",
-      "versionDate": "2026-11-04",
-      "versionDescription": "ÚJDONSÁGOK\n• Filmes nyitány: új játék indulásakor egy rövid film a TV-n és a telefonon is (koppintásra átugorható).\n• Párt cseréje: a párt ablakában egy nem játszó pártra cserélheted (a 12 pártból 6 van játékban).\n• 27 speciális lapka szebb, jobban kiemelkedő 3D-s képet kapott.\n\nJAVÍTÁSOK\n• A lerakott lapkák pontosan a nyomtatott rácson ülnek (Hold, Vénusz és a Mars alsó sorai).\n• Az összeolvadó óceánok csatlakozásánál nincs többé lépcső vagy világos csík.\n• A játék végén csak Növényzetlapka rakható a Marsra, és beleszámít a végeredménybe.\n\nBEÁLLÍTÁSOK\n• Grafika: Közepes (lapos, nyugodt tábla) vagy Magas (3D és animáció).\n• Action cam: Saját / Mindenki / Ki.\n• A DEMÓ (próbajáték TV nélkül) a Beállításokból indítható.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.5/TMGiga-Phone.ipa",
-      "size": 377662428,
+      "version": "4.6",
+      "versionDate": "2026-11-06",
+      "versionDescription": "JAVÍTÁSOK\n• A lerakott lapkák nem csúsznak el a nyomtatott rácshoz képest: a Holdon lefelé haladva egyre lejjebb kerültek, a Mars alsó soraiban kicsit feljebb ültek (a Vénuszon is volt egy kis eltérés).\n• A Hold középső sorának két végére nem lehet többé lapkát rakni (a bal oldalit a jelmagyarázat takarja, a jobb oldali a peremen van): ezek a táblán nem mezők.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.6/TMGiga-Phone.ipa",
+      "size": 377661673,
       "versions": [
+        {
+          "version": "4.6",
+          "date": "2026-11-06",
+          "localizedDescription": "JAVÍTÁSOK\n• A lerakott lapkák nem csúsznak el a nyomtatott rácshoz képest: a Holdon lefelé haladva egyre lejjebb kerültek, a Mars alsó soraiban kicsit feljebb ültek (a Vénuszon is volt egy kis eltérés).\n• A Hold középső sorának két végére nem lehet többé lapkát rakni (a bal oldalit a jelmagyarázat takarja, a jobb oldali a peremen van): ezek a táblán nem mezők.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.6/TMGiga-Phone.ipa",
+          "size": 377661673,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.5",
           "date": "2026-11-04",
