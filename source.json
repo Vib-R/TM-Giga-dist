@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.6",
-      "versionDate": "2026-11-06",
-      "versionDescription": "JAVÍTÁSOK\n• A lerakott lapkák nem csúsznak el a nyomtatott rácshoz képest: a Holdon lefelé haladva egyre lejjebb kerültek, a Mars alsó soraiban kicsit feljebb ültek (a Vénuszon is volt egy kis eltérés).\n• A Hold középső sorának két végére nem lehet többé lapkát rakni (a bal oldalit a jelmagyarázat takarja, a jobb oldali a peremen van): ezek a táblán nem mezők.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.6/TMGiga-Phone.ipa",
-      "size": 377661673,
+      "version": "4.7",
+      "versionDate": "2026-11-13",
+      "versionDescription": "ÚJDONSÁGOK\n• Körök: a soron lévő játékos telefonján színes keret és „TE JÖSSZ!” sáv, az akciói után KÉSZ. Más körében csak nézelődni lehet.\n• Teendők: a „TE JÖSSZ!” sávra koppintva látszik, mi van még hátra (kereskedés, küldött a lobbiban, jutalmak, kézben lévő lapka …), és onnan meg is nyitható.\n• Pingelés: a soron lévő játékos telefonja némítva is megszólal.\n• Figyelők: jelzés, ha valaki várost rak le, kolóniát épít vagy a figyelt ikonokat viszi fel.\n• Mars-szél: a rácson kívüli lapkák (Kapuállomás, a Repülő kert növényzete) a Mars körüli gyűrűre kerülnek.\n• 27 új hatáslap (pl. Aphrodite, Planet PR, Ringcom, Tempest Consultancy, Judges of Change), és a 4 promólap a lapkájával (Deimos Down, Great Dam, Magnetic Field Generators, Új Hollandia).\n• Ikonjaim: ha egy felvitelből nem derül ki, melyik ikon melyik lapról jött (Űr + Esemény, a lapként járó hatások, Planet PR), a telefon rákérdez.\n• Gyarmatok: a Kereskedés gombot hosszan nyomva a jelölő mozgatható, a Kolónia gombot hosszan nyomva a saját kolónia levehető (kártyahatás).\n• Jutalmak: szöveg helyett ikonok (erőforrás, termelés, győzelmi pont, flotta, lerakható lapka).\n• TV: közvetítés-stílusú kijelző; admin módban minden állítható; a naplóban a kolóniaépítés is visszanézhető.\n\nJAVÍTÁSOK\n• Ha egy telefon hirtelen kiesett, a TV egy ideig senkit sem hallott, és lépések vesztek el. Ez megszűnt.\n• Újratelepítés után a játékos visszakerül a saját helyére („Ki vagy?”).\n• Mind az 1161 lap végigpróbálva: a talált kártya- és szabályhibák javítva.\n• Az Ikonjaim a filmes nyitány alatt megnyitva sem tűnik el; a saját kolónia levétele visszavonható.\n\nBEÁLLÍTÁSOK\n• Lapkák: 2D vagy 3D, az animációk külön ki-be kapcsolhatók.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.7/TMGiga-Phone.ipa",
+      "size": 379196528,
       "versions": [
+        {
+          "version": "4.7",
+          "date": "2026-11-13",
+          "localizedDescription": "ÚJDONSÁGOK\n• Körök: a soron lévő játékos telefonján színes keret és „TE JÖSSZ!” sáv, az akciói után KÉSZ. Más körében csak nézelődni lehet.\n• Teendők: a „TE JÖSSZ!” sávra koppintva látszik, mi van még hátra (kereskedés, küldött a lobbiban, jutalmak, kézben lévő lapka …), és onnan meg is nyitható.\n• Pingelés: a soron lévő játékos telefonja némítva is megszólal.\n• Figyelők: jelzés, ha valaki várost rak le, kolóniát épít vagy a figyelt ikonokat viszi fel.\n• Mars-szél: a rácson kívüli lapkák (Kapuállomás, a Repülő kert növényzete) a Mars körüli gyűrűre kerülnek.\n• 27 új hatáslap (pl. Aphrodite, Planet PR, Ringcom, Tempest Consultancy, Judges of Change), és a 4 promólap a lapkájával (Deimos Down, Great Dam, Magnetic Field Generators, Új Hollandia).\n• Ikonjaim: ha egy felvitelből nem derül ki, melyik ikon melyik lapról jött (Űr + Esemény, a lapként járó hatások, Planet PR), a telefon rákérdez.\n• Gyarmatok: a Kereskedés gombot hosszan nyomva a jelölő mozgatható, a Kolónia gombot hosszan nyomva a saját kolónia levehető (kártyahatás).\n• Jutalmak: szöveg helyett ikonok (erőforrás, termelés, győzelmi pont, flotta, lerakható lapka).\n• TV: közvetítés-stílusú kijelző; admin módban minden állítható; a naplóban a kolóniaépítés is visszanézhető.\n\nJAVÍTÁSOK\n• Ha egy telefon hirtelen kiesett, a TV egy ideig senkit sem hallott, és lépések vesztek el. Ez megszűnt.\n• Újratelepítés után a játékos visszakerül a saját helyére („Ki vagy?”).\n• Mind az 1161 lap végigpróbálva: a talált kártya- és szabályhibák javítva.\n• Az Ikonjaim a filmes nyitány alatt megnyitva sem tűnik el; a saját kolónia levétele visszavonható.\n\nBEÁLLÍTÁSOK\n• Lapkák: 2D vagy 3D, az animációk külön ki-be kapcsolhatók.\n\nFONTOS: a TV-t (Windows host) is frissíteni kell.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.7/TMGiga-Phone.ipa",
+          "size": 379196528,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.6",
           "date": "2026-11-06",
