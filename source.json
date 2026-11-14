@@ -13,12 +13,20 @@
       "tintColor": "1B7F3B",
       "category": "games",
       "screenshotURLs": [],
-      "version": "4.8",
-      "versionDate": "2026-11-13",
-      "versionDescription": "ÚJDONSÁGOK\n• Appon belüli frissítés: a TV magától letölti a javításokat (15 percenként, vagy azonnal a fogaskerék-menü „Frissítés keresése” gombjával), és a telefonoknak is továbbadja — a kisebb javításokhoz nem kell SideStore-frissítés.\n• A TV kódjavítása: letöltés után a fogaskerék melletti narancs gombbal újraindul a javított kóddal. Ha az új kód nem indul el, magától visszaáll az előzőre.\n• Új verzió jelzése: a TV és a telefon főmenüje szól, ha újabb kiadás érhető el (Androidon egy gombnyomással letölthető).\n• A főmenüben a verzió mellett a betöltött javítás száma is látszik (pl. „v4.8 · javítás #2”).\n\nFONTOS: a TV-t (Windows host) most frissíteni kell; ezután a kisebb javításokat magától tölti le.",
-      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.8/TMGiga-Phone.ipa",
-      "size": 379313525,
+      "version": "4.9",
+      "versionDate": "2026-11-14",
+      "versionDescription": "ÚJDONSÁGOK\n• Félbehagyott játékok: az „Új játék” előtt a TV elteszi a futó játékot, és később a fogaskerék-menüből (vagy a lobbiból) folytatható vagy törölhető.\n• Frissítés: a TV csak induláskor és a „Frissítés keresése” gombra keres frissítést; a gomb után a telefonok is megnézik, van-e új verziójuk.\n\nJAVÍTÁSOK\n• TV: ha a gyors újraindításkor a hálózat még foglalt, a TV újrapróbálja, és kiírja, mi a gond.\n• TV: 7–8 játékosnál is minden játékos neve és pontja látszik a felső sávban.\n• Félbehagyott játék folytatásakor nincs nyitóvideó.\n• A Végeredmény és az Ikonjaim széles telefonon is görgetés nélkül kifér.\n• Az ikonoknál a „Bármely bolygó” új neve „Wild bolygó”.\n• TV: a „Kódjavítás kész” gomb nem takarja az eseményt, az admin-ablak a QR-panel fölött marad, a végeredmény alatt nem terheli a gépet.\n• Kisebb javítások: Előző játékaim ablak, jutalom-jelző az Ikonjaimban, QR-kód portja.\n\nFONTOS: a TV-t (Windows host) és a telefonokat is frissítsd 4.9-re.",
+      "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.9/TMGiga-Phone.ipa",
+      "size": 379350404,
       "versions": [
+        {
+          "version": "4.9",
+          "date": "2026-11-14",
+          "localizedDescription": "ÚJDONSÁGOK\n• Félbehagyott játékok: az „Új játék” előtt a TV elteszi a futó játékot, és később a fogaskerék-menüből (vagy a lobbiból) folytatható vagy törölhető.\n• Frissítés: a TV csak induláskor és a „Frissítés keresése” gombra keres frissítést; a gomb után a telefonok is megnézik, van-e új verziójuk.\n\nJAVÍTÁSOK\n• TV: ha a gyors újraindításkor a hálózat még foglalt, a TV újrapróbálja, és kiírja, mi a gond.\n• TV: 7–8 játékosnál is minden játékos neve és pontja látszik a felső sávban.\n• Félbehagyott játék folytatásakor nincs nyitóvideó.\n• A Végeredmény és az Ikonjaim széles telefonon is görgetés nélkül kifér.\n• Az ikonoknál a „Bármely bolygó” új neve „Wild bolygó”.\n• TV: a „Kódjavítás kész” gomb nem takarja az eseményt, az admin-ablak a QR-panel fölött marad, a végeredmény alatt nem terheli a gépet.\n• Kisebb javítások: Előző játékaim ablak, jutalom-jelző az Ikonjaimban, QR-kód portja.\n\nFONTOS: a TV-t (Windows host) és a telefonokat is frissítsd 4.9-re.",
+          "downloadURL": "https://github.com/Vib-R/TM-Giga-dist/releases/download/v4.9/TMGiga-Phone.ipa",
+          "size": 379350404,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "4.8",
           "date": "2026-11-13",
